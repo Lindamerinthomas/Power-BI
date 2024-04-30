@@ -1,0 +1,28 @@
+Becoming an intermediate-level expert in Power BI involves mastering various aspects of data visualization, data modeling, DAX (Data Analysis Expressions), and report creation. Here's a list of topics to focus on:
+
+1. Data Importing and Transformation:
+ - Learn to import data from different sources (Excel, CSV, databases, web sources, etc.).
+
+ 2. Data Modeling:
+ - Understand relationships between tables.
+ - Master techniques like creating calculated columns, measures, and hierarchies.
+ - Explore advanced modeling concepts like role-playing dimensions, bi-directional filtering, and many-to-many relationships.
+
+3. DAX (Data Analysis Expressions):
+ - Study DAX functions and their syntax.
+ - Practice writing complex DAX calculations for business logic, such as time intelligence functions (e.g., YTD, QTD).
+ - Learn about context transition and evaluation contexts.
+
+4. Visualization:
+ - Experiment with different chart types (bar, line, pie, scatter, etc.).
+ - Understand best practices for designing effective visualizations.
+ - Practice creating custom visuals and using the formatting options effectively.
+
+5. Advanced Features:
+ - Explore advanced features like bookmarks, drill-through, and custom tooltips.
+ - Learn about using parameters for dynamic filtering and what-if analysis.
+ - Dive into advanced data analytics with AI visuals and R/Python integration.
+
+6. Performance Optimization:
+ - Understand techniques for optimizing report performance, such as summarization, indexing, and query folding.
+ - Learn about optimizing DAX expressions for better performance.
